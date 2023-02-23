@@ -2,5 +2,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-languagetool-plugin",
   "table-editor-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-pandoc",
+  "obsidian-vim-im-switch-plugin"
 ]

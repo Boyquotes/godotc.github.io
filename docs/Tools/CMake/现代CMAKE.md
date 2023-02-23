@@ -7,7 +7,7 @@ cmake -B build
 cmake --build ./build
 ```
 
-## 1. 添加 source
+## 1. 生成可执行应用
 ```cmake
  add_executable(main) (之前)
  target_sources(main PUBLIC main.cpp) (之后)
@@ -38,7 +38,7 @@ aux_source_directory(src sources)
 target_sources(main PUBLIC ${sources})
 ```
 
-## 2. 添加库
+## 2. 生成库文件
 ### 静态库
 ```cmake
 add_library(mylib STATIC mylib.cpp)
@@ -99,7 +99,7 @@ target_link_libraries(main PUBLIC mylib)
  // TODO
  
 ---
-## 3. 链接第三方库
+## 3. 使用/链接 第三方库 
 
 ### 1. 直接链接
 在  windows 下可能无法找到
@@ -321,7 +321,7 @@ set_property(TAGET main PROPERTY CXX_STANDARD ON)
 set_property(TAGET main PROPERTY WIN32_EXECUTALBLE ON) # 在windows中关闭 console 只有 gui (default OFFu)
 set_property(TAGET main PROPERTY LINK_WHAT_YOU_USE ON) # 告诉编译器不要自动剔除没有引用符号的链接库 （default OFF)
 set_property(TAGET main PROPERTY LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib) # 动态链接库的输出路径
-set_property(TAGET main PROPERTY ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib) # 静态链接库
+set_property(TAGET main PROPERTYARCHIVE_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib) # 静态链接库
 set_property(TAGET main PROPERTY RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib) # 可执行文件
 ```
 
@@ -344,7 +344,7 @@ add_dependencies(run main)
 
 这样就可以运行指定目标了
 ```shell
-cmake -build build --target run
+cmake --build build --target run
 ```
 
 

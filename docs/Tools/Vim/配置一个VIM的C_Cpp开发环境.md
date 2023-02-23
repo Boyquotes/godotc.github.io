@@ -1,15 +1,17 @@
 
 
-# 如何使用vim配置一个C/C++开发环境
+# 如何在vim下配置一个C/C++开发环境
 
 ## 补全方案选择
 
-- clangd + coc.nvim
-
-- 为什么使用 coc 而不是 ycm？
-	- youcompleteme 可以说是最难安装的一款vim插件，每次安装的体验都可以说是折磨。如果网络条件不好，可能一天下来，代码还没有从github上拉取下来
+- `clangd` + `coc.nvim`
+	- clangd:  llvm-project 下的 一个 LSP
+	- coc.nvim : 一款 vim插件
+- 为什么使用 `coc` 而不是 `ycm`？
+	- `YouCocompleteMe` 可以说是最难安装的一款vim插件，每次安装的体验都可以说是折磨。
 	- ycm 半异步(可能)的机制在进行大文本文件分析时变得很卡顿, 亲身体验
-	- ycm 是基于 python， 可以说是锁死了单线程, coc - type script
+	- ycm 是基于 python 的， 而python是单线程的, coc.nvim 是用  type script写的
+	- ycm 配置繁杂，而coc有统一的配置文件，且本身也是一个插件管理器
 
 
 

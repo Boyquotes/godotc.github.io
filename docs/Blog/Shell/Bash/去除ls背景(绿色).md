@@ -11,6 +11,8 @@ eval "$(dircolors -p | \
 
 2.
 
--   `bash`
--   `dircolors -p | sed 's/;42/;01/' > ~/.dircolors`
--   `source ~/.bashrc`
+```sh
+bash
+dircolors -p | sed 's/;42/;01/' > ~/.dircolors
+source ~/.bashrc
+```

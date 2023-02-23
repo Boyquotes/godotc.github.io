@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f6fd0f5e26072d",
+        "id": "72841293b7c2e036",
         "type": "tabs",
         "children": [
           {
-            "id": "d38d9754dd65c2be",
+            "id": "1163626fc20b707a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Makefile/一些说明.md",
+                "file": "Diary/2023-02-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aedc070d4b402aad",
+            "id": "9e5982af39e33d11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/GNU/GDB.md",
+                "file": "Diary/2023-02-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd7a11745d51abfe",
+            "id": "d42407981227a933",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +55,12 @@
             }
           },
           {
-            "id": "ad2e7b5b1e9863c4",
+            "id": "5929d6e27d468c57",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Makefile/一些说明.md"
+                "file": "Diary/2023-02-15.md"
               }
             }
           },
@@ -70,41 +70,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EPOLL",
+                "query": "tag:#git",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "70b21301d6f12d11",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tools/Makefile/一些说明.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "fbc9d0d71902f6a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tools/Makefile/一些说明.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
               }
             }
           },
@@ -127,32 +98,98 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "0f788ea0b338f251",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "dd25b205acc1c14d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666410326e3cbf38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "568975717f5c46d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2023-02-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f881e016a28ffb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2023-02-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "925b1c281e3558db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2023-02-15.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "d38d9754dd65c2be",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "1163626fc20b707a",
   "lastOpenFiles": [
+    "civil3/socket-gateway/outline.md",
+    "Diary/2023-02-12.md",
+    "civil3/wallet-be/Civil3-Wallet-POC.md",
+    "青训营/Notes/5_Database-Related.md",
+    "civil3/socket-gateway/socket-gateway.canvas",
+    "Tools/Git/Config.md",
+    "Diary/2023-02-10.md",
+    "Blog/Linux/工具小集合(tmux).md",
     "Tools/Makefile/一些说明.md",
-    "Blog/C_Cpp/宏定义.md",
-    "Blog/计组/RISC-V.md",
-    "Library/GNU/GDB.md",
-    "Tools/Makefile/args.md",
-    "Blog/JAVA/牛客社区项目总结.md",
-    "Blog/Linux/常忘指令.md",
-    "面试相关/设计一个无锁队列.md",
-    "Blog/服务器/LibEvent.md",
-    "Blog/C_Cpp/位操作.md"
+    "Library/GNU/GDB.md"
   ]
 }

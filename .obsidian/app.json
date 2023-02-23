@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments"
+}

@@ -16,7 +16,7 @@ SET(CMAKE_BUILE_TYPE DEBUG)       # 指定编译类型，debug 或release
 >debug 版会生成相关调试信息，可以使用  [gdb](../../Library/GNU/GDB.md) 进行 
  release不会生成调试信息。当无法进行调试时查看此处是否设置为 debug.
  
-    ```cmake
+```cmake
     SET(CMAKE_C_FLAGS_DEBUG "-g -Wall")          # 指定编译器 
                 # CMAKE_C_FLAGS_DEBUG            ----  C 编译器
                                                 # CMAKE_CXX_FLAGS_DEBUG        ----  C++ 编译器
@@ -25,7 +25,7 @@ SET(CMAKE_BUILE_TYPE DEBUG)       # 指定编译类型，debug 或release
     
     ADD_SUBDIRECTORY(utility)                    # 添加子目录 
     ADD_SUBDIRECTORY(server)
-    ```
+```
 
 2. 单个工程 
 ```cmake

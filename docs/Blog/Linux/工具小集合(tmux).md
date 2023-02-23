@@ -44,6 +44,10 @@ $ fuck
 ```
 
 ### 5. tmux
+- 保存 session 到硬盘上:
+>https://zhuanlan.zhihu.com/p/146544540
+
+
 - 终端分屏复用软件
 - 快捷键为 `ctrl-b` 前缀
 - 使用 `C-b + ?` 进入提示菜单
