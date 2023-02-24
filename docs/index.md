@@ -11,4 +11,4 @@
 
 ### 👉 <a href ="https://github.com/godotc">Github 主页</a>
 
-![phpto](./2.png)
+![phpto](./attachments/2.png)
