@@ -60,11 +60,10 @@ BE Wallet-Service : [https://github.com/Civil3Labs/wallet-be](https://github.com
 
 | mapping         | description                                    |
 | --------------- | ---------------------------------------------- |
-| `/login`        | Connect to chain networks, return initial info |
 | `/account`      | Get self info(tokens)                          |
 | `/transfer`     | Transfer action                                |
 | `/transactions` | Return the transactions of specific address    |
-| `/exchange`     | From other token to `CIVIL`                    |
+| `/swap`     | From other token to `CIVIL`                    |
 
 ## 3. Services interaction
 
