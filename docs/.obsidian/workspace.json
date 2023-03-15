@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "civil3/blockx/BlockChain.md",
+                "file": "civil3/blockx/Blogx-Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civil3/blockx/BlockChain.md"
+                "file": "civil3/blockx/Blogx-Index.md"
               }
             }
           },
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "0f788ea0b338f251",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "civil3/blockx/BlockChain.md",
+                "file": "civil3/blockx/Blogx-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "civil3/blockx/BlockChain.md",
+                "file": "civil3/blockx/Blogx-Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civil3/blockx/BlockChain.md"
+                "file": "civil3/blockx/Blogx-Index.md"
               }
             }
           }
@@ -168,10 +169,20 @@
   },
   "active": "1b58d6f00f3ee9cf",
   "lastOpenFiles": [
-    "civil3/blockx/Blogx-Index.md",
-    "civil3/blockx/SmartContract.md",
     "civil3/blockx/BlockChain.md",
+    "civil3/blockx/Blogx-Index.md",
     "civil3/blockx/Decentralized-Message-Storage.md",
+    "civil3/blockx/SmartContract.md",
+    "civil3/blockx/slides.md",
+    "civil3/blockx/package.json",
+    "civil3/blockx/package-lock.json",
+    "civil3/blockx/node_modules/g/test.js",
+    "civil3/blockx/node_modules/g/index.js",
+    "civil3/blockx/node_modules/g/LICENSE",
+    "civil3/blockx/node_modules/g/README.md",
+    "civil3/blockx/node_modules/g/package.json",
+    "civil3/blockx/node_modules/g",
+    "civil3/blockx/node_modules",
     "civil3/blockx/attachments/Pasted image 20230311014625.png",
     "civil3/blockx/attachments/Pasted image 20230311013039.png",
     "civil3/blockx/attachments/Pasted image 20230311012939.png",
@@ -186,7 +197,6 @@
     "civil3/attachments/Pasted image 20230310225901.png",
     "civil3/attachments/Pasted image 20230310225633.png",
     "civil3/attachments/Pasted image 20230310225544.png",
-    "civil3/attachments",
     "ByteYouthCamp/Notes/1_Golang.md",
     "ByteYouthCamp/Notes/5_Database-Related.md",
     "ByteYouthCamp/Project-relates.md",
@@ -199,14 +209,10 @@
     "Blog/blockchain/ERC20/transfer-transferFrom-approve.md",
     "Diary/2023-03-04.md",
     "Blog/blockchain/BTC-ETH.md",
-    "Blog/blockchain/ERC20",
     "civil3/wallet-be/Notes.md",
-    "Blog/blockchain",
     "Diary/2023-02-15.md",
     "civil3/socket-gateway/outline.md",
     "Diary/2023-02-12.md",
-    "civil3/socket-gateway/socket-gateway.canvas",
-    "Tools/Git/Config.md",
-    "Diary/2023-02-10.md"
+    "civil3/socket-gateway/socket-gateway.canvas"
   ]
 }
