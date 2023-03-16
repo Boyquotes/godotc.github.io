@@ -87,4 +87,4 @@ event ApprovalForAll(address indexed owner, address indexed operator, bool appro
 
 # Question?
 
-[→Back](Blogx-Index.md#Content)
+[→Back](Blocx-Index.md)

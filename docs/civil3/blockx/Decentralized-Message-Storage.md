@@ -70,4 +70,4 @@
 ---
 ## Question
 
-[→Back](Blogx-Index.md#Content)
+[→Back](Blocx-Index.md)
