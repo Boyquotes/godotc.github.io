@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72841293b7c2e036",
+        "id": "335d9a3ce516e156",
         "type": "tabs",
         "children": [
           {
-            "id": "1b58d6f00f3ee9cf",
+            "id": "730507b57d32174b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -47,9 +43,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "civil3/blockx/Blogx-Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "0f788ea0b338f251",
@@ -115,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "civil3/blockx/Blogx-Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,32 +146,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b58d6f00f3ee9cf",
+  "active": "730507b57d32174b",
   "lastOpenFiles": [
-    "civil3/blockx/BlockChain.md",
-    "civil3/blockx/Blogx-Index.md",
-    "civil3/blockx/Decentralized-Message-Storage.md",
-    "civil3/blockx/SmartContract.md",
+    "civil3/blockx/Blocx-Index.md",
+    "civil3/blockx/Blockx-Index.md",
     "civil3/blockx/slides.md",
     "civil3/blockx/package.json",
     "civil3/blockx/package-lock.json",
-    "civil3/blockx/node_modules/g/test.js",
-    "civil3/blockx/node_modules/g/index.js",
-    "civil3/blockx/node_modules/g/LICENSE",
-    "civil3/blockx/node_modules/g/README.md",
-    "civil3/blockx/node_modules/g/package.json",
-    "civil3/blockx/node_modules/g",
-    "civil3/blockx/node_modules",
+    "civil3/blockx/Blogx-Index.md",
+    "Diary/构建 analsis situs 库.md",
+    "Diary/2023-01-05-总结不了.md",
+    "civil3/blockx/BlockChain.md",
+    "civil3/blockx/Decentralized-Message-Storage.md",
+    "civil3/blockx/SmartContract.md",
     "civil3/blockx/attachments/Pasted image 20230311014625.png",
     "civil3/blockx/attachments/Pasted image 20230311013039.png",
     "civil3/blockx/attachments/Pasted image 20230311012939.png",
@@ -197,6 +183,7 @@
     "civil3/attachments/Pasted image 20230310225901.png",
     "civil3/attachments/Pasted image 20230310225633.png",
     "civil3/attachments/Pasted image 20230310225544.png",
+    "civil3/attachments",
     "ByteYouthCamp/Notes/1_Golang.md",
     "ByteYouthCamp/Notes/5_Database-Related.md",
     "ByteYouthCamp/Project-relates.md",
@@ -209,10 +196,10 @@
     "Blog/blockchain/ERC20/transfer-transferFrom-approve.md",
     "Diary/2023-03-04.md",
     "Blog/blockchain/BTC-ETH.md",
+    "Blog/blockchain/ERC20",
     "civil3/wallet-be/Notes.md",
+    "Blog/blockchain",
     "Diary/2023-02-15.md",
-    "civil3/socket-gateway/outline.md",
-    "Diary/2023-02-12.md",
     "civil3/socket-gateway/socket-gateway.canvas"
   ]
 }

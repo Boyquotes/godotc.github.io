@@ -11,12 +11,8 @@
             "id": "9c8b2feee61572bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/青训营/Notes/6_规则引擎.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -160,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133ca375648960f0",
+  "active": "28f8368f37b92905",
   "lastOpenFiles": [
     "docs/青训营/Notes/7_Architecture.md",
     "docs/青训营/Notes/6_规则引擎.md",

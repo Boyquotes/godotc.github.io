@@ -9,4 +9,4 @@
 - A smart contract can be develop by FE/BE both
 
 
-[→Back](Blogx-Index.md#Content)
+[→Back](Blocx-Index.md)

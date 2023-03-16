@@ -85,4 +85,4 @@ How data flows between clients:
 - Encryption
 There are different ways to encrypt files before storing them on IPFS. One way is to use symmetric encryption, where the same key is used to encrypt and decrypt the data. Another way is to use asymmetric encryption, where a public key is used to encrypt the data and a private key is used to decrypt it.
 
-[→Back](Blogx-Index.md#Content)
+[→Back](Blocx-Index.md)

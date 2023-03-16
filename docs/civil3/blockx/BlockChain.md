@@ -18,4 +18,4 @@ All nodes run an VM (virtual machine) software as the **internal layer** to sync
 
 
 
-[→Back](Blogx-Index.md#Content)
+[→Back](Blocx-Index.md)
