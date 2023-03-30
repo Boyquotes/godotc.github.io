@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"text","text":"`EquipmentList`","id":"c7b9924c6d354c4c","x":-165,"y":-406,"width":243,"height":66},
+		{"type":"text","text":"`ItemList`","id":"c1b6821f4553e751","x":-158,"y":-220,"width":228,"height":61},
+		{"type":"text","text":"TableGenerate","id":"cb5528e9cc05ed67","x":200,"y":-300,"width":250,"height":60},
+		{"type":"text","text":"`ShopItem` Table\n","id":"b9e0c9d1106406a7","x":580,"y":-349,"width":245,"height":60},
+		{"type":"text","text":"`StoreDetail` Tabel","id":"952b213f9a1009d9","x":578,"y":-240,"width":250,"height":60},
+		{"id":"675a7101068c721a","x":980,"y":-289,"width":339,"height":55,"color":"1","type":"text","text":"Stock & Color & Cooldown"},
+		{"id":"2bf41e623f704b98","x":1440,"y":-287,"width":126,"height":51,"type":"text","text":"UI"}
+	],
+	"edges":[
+		{"id":"eb1588e4c71e40be","fromNode":"cb5528e9cc05ed67","fromSide":"right","toNode":"b9e0c9d1106406a7","toSide":"left"},
+		{"id":"9104f7ded94359a2","fromNode":"cb5528e9cc05ed67","fromSide":"right","toNode":"952b213f9a1009d9","toSide":"left"},
+		{"id":"f8c7eab2e6bd1e1f","fromNode":"c7b9924c6d354c4c","fromSide":"right","toNode":"cb5528e9cc05ed67","toSide":"left"},
+		{"id":"0bd10c823d08e278","fromNode":"c1b6821f4553e751","fromSide":"right","toNode":"cb5528e9cc05ed67","toSide":"left"},
+		{"id":"3c0f092b8f44ff9d","fromNode":"b9e0c9d1106406a7","fromSide":"right","toNode":"675a7101068c721a","toSide":"left"},
+		{"id":"1f2bc6ef7111e3b3","fromNode":"675a7101068c721a","fromSide":"right","toNode":"2bf41e623f704b98","toSide":"left","label":"set"},
+		{"id":"22d7e007db06e33d","fromNode":"952b213f9a1009d9","fromSide":"right","toNode":"675a7101068c721a","toSide":"left"}
+	]
+}
