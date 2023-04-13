@@ -4,31 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6c603bf18081f2",
+        "id": "7937fad94d8dde1f",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8b2feee61572bc",
+            "id": "15793065d6ea8592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/青训营/Notes/6_规则引擎.md",
+                "file": "docs/Diary/2023-03-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "133ca375648960f0",
+            "id": "7a04bef161d8cbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tools/Git/Config.md",
+                "file": "docs/Blog/Linux/工具小集合(tmux).md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "9b4d8a7c5b50b2a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -61,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Tools/Git/Config.md"
+                "file": "docs/Blog/Linux/工具小集合(tmux).md"
               }
             }
           },
@@ -119,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tools/Git/Config.md",
+                "file": "docs/Blog/Linux/工具小集合(tmux).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tools/Git/Config.md",
+                "file": "docs/Blog/Linux/工具小集合(tmux).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133ca375648960f0",
+  "active": "7a04bef161d8cbcb",
   "lastOpenFiles": [
+    "docs/graduation_design/01.md",
+    "docs/Diary/2023-03-19.md",
+    "docs/graduation_design",
+    "docs/civil3/blockchain_poc.md",
+    "docs/Diary/2022-09-22.md",
+    "README.md",
+    "docs/Tools/Git/Config.md",
     "docs/青训营/Notes/7_Architecture.md",
     "docs/青训营/Notes/6_规则引擎.md",
     "docs/青训营/Notes/5_Database-Related.md",

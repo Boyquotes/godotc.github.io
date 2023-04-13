@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
-                "mode": "source",
+                "file": "Diary/2023-03-19.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md"
+                "file": "Diary/2023-03-19.md"
               }
             }
           },
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "0f788ea0b338f251",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
+                "file": "Diary/2023-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md",
+                "file": "Diary/2023-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "civil3/blockx/Blogx-Index.md"
+                "file": "Diary/2023-03-19.md"
               }
             }
           }
@@ -169,17 +168,20 @@
   },
   "active": "1b58d6f00f3ee9cf",
   "lastOpenFiles": [
+    "civil3/blockx/Decentralized-Message-Storage.md",
+    "Diary/2023-03-19.md",
     "civil3/blockx/BlockChain.md",
     "civil3/blockx/Blogx-Index.md",
-    "civil3/blockx/Decentralized-Message-Storage.md",
     "civil3/blockx/SmartContract.md",
+    "civil3/blockx/attachments/Pasted image 20230319040129.png",
     "civil3/blockx/slides.md",
+    "civil3/blockx/node_modules/g/README.md",
+    "civil3/blockx/attachments/28ddd68a529963ca7ed1d43d1c6a799a.png",
     "civil3/blockx/package.json",
     "civil3/blockx/package-lock.json",
     "civil3/blockx/node_modules/g/test.js",
     "civil3/blockx/node_modules/g/index.js",
     "civil3/blockx/node_modules/g/LICENSE",
-    "civil3/blockx/node_modules/g/README.md",
     "civil3/blockx/node_modules/g/package.json",
     "civil3/blockx/node_modules/g",
     "civil3/blockx/node_modules",

@@ -11,7 +11,7 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "pdfExportSettings": {
