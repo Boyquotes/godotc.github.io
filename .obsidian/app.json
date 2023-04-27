@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": true
 }

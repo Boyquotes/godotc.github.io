@@ -1,66 +1,32 @@
 ---
-# try also 'default' to start simple
 theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
-# apply any windi css classes to the current slide
 class: 'text-center'
-# https://sli.dev/custom/highlighters.html
 highlighter: shiki
-# some information about the slides, markdown enabled
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 ---
-
 # Block Chain System Generality
-
-Presentation slides for developers
+@godot42 2023.3.13
 
 <div class="pt-12">
-
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
-
 </div>
-
-<a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" class="abs-br m-6 text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-</a>
-
-
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
-
 ---
 
-# What is Slidev?
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
 
-<br>
-<br>
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
 
-<style>
+
+
+layout: image-right
+background: https://source.unsplash.com/collection/94734566/1920x1080
+---
+
+<!-- <style>
 h1 {
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
@@ -70,41 +36,104 @@ h1 {
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
 }
-</style>
+</style> -->
 
+# Purpose
+
+1.  Popularize the common-sense about `chain`,  `wallet`  and  `DApp`  
+2.  Tear the ***secretive rag*** of block-chain (It's very simple when compared with classic web2.0)
+3.  One more hands on `web3` ,  everyone can join the development of things about `contract`, `decentralized`( what we gonna do)
+<br>
+<br>
 ---
 
-# Navigation
 
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
 
-### Keyboard Shortcuts
 
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd>| previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
 
-<!-- https://sli.dev/guide/animations.html#click-animations -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+
+
+
+
+layout: image-right
+image: https://source.unsplash.com/collection/94734546/1920x1080
+---
+# Content
+## 1. The `blockchian` and the `wallet`
+<br>
+
+## 2. Smart contract
+<br>
+
+## 3. Decentralized storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+background: https://source.unsplash.com/collection/94734536/1920x1080
+---
+# Block Chain
+<br>
+
+## Introduction
+
+<br>
+<br>
+
+>   区块链技术的本质是**一种分布式的可靠数据库(账本)，由集体而非单一中心维护**。 将大量交易信息存储在区块内，通过密码算法并按照交易发生的时间顺序将区块依次连接，形成一条数据链，私有区块链是私人加密的，公有区块链中所有接入网络的人都能参与到交易信息的记录、查询和存储。
+
+#分布式 #共识 #账本
+<br>
+
+All nodes run an VM (virtual machine) software as the ***internal layer*** to sync data and transaction, the **data consistency** was process by the `consensus algorithm` (共识算法)
+
+
+
+
+
+
+
+
+
 
 ---
 layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+background: ./attachments/28ddd68a529963ca7ed1d43d1c6a799a.png
 ---
+以太坊是什么?
+
+-   一台世界计算机(EVM)，由全世界的节点组成
+-   每个节点上运行了一个 EVM 的客户端实现(类似于geth等等), 就像其他语言的虚拟机一样(JVM, JSVM), 不过主要作用不同
+-   EVM 用于在分布全球各地的节点对发出的交易进行 **记账** , 同时基于这种方式获得奖励(**挖矿**), 并将**账本**对所有节点广播，进行同步
+
+- Merkle Tree(右图)
+[haha]( ./attachments/28ddd68a529963ca7ed1d43d1c6a799a.png)
+
+
+
+
+
+
+---
+layout: image-right
+image: https://source.unsplash.com/collection/94734536/1920x1080
+---
+
 
 # Code
 
 Use code snippets and get the highlighting directly!
-
-<!-- https://sli.dev/guide/syntax.html#line-highlighting -->
 
 ```ts {all|2|1-6|9|all}
 interface User {
