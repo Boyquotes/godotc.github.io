@@ -11,8 +11,15 @@
             "id": "9c8b2feee61572bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "script/Untitled.canvas",
+                "viewState": {
+                  "x": 248.56991979833236,
+                  "y": -23.75428731336065,
+                  "zoom": -0.6666666666666666
+                }
+              }
             }
           },
           {
@@ -27,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Tools/Git/Config.md"
+                "file": "script/Untitled.canvas"
               }
             }
           },
@@ -115,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tools/Git/Config.md",
+                "file": "script/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tools/Git/Config.md",
+                "file": "script/Untitled.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28f8368f37b92905",
+  "active": "9c8b2feee61572bc",
   "lastOpenFiles": [
+    "docs/civil3/Untitled.canvas",
+    "script/Untitled.canvas",
     "docs/青训营/Notes/7_Architecture.md",
     "docs/青训营/Notes/6_规则引擎.md",
     "docs/青训营/Notes/5_Database-Related.md",
