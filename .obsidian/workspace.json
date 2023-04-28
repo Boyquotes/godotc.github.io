@@ -13,30 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Diary/2023-03-19.md",
+                "file": "docs/Game/Unity/initial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a04bef161d8cbcb",
+            "id": "3d7496f2c259023a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/Linux/工具小集合(tmux).md",
+                "file": "docs/civil3/None.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9b4d8a7c5b50b2a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -69,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Blog/Linux/工具小集合(tmux).md"
+                "file": "docs/civil3/None.md"
               }
             }
           },
@@ -127,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/Linux/工具小集合(tmux).md",
+                "file": "docs/civil3/None.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Blog/Linux/工具小集合(tmux).md",
+                "file": "docs/civil3/None.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a04bef161d8cbcb",
+  "active": "3d7496f2c259023a",
   "lastOpenFiles": [
-    "docs/graduation_design/01.md",
+    "docs/civil3/None.md",
+    "docs/civil3/wallet-be/Notes.md",
+    "docs/civil3/wallet-be/Civil3-Wallet-POC.md",
+    "docs/civil3/blockx/Decentralized-Message-Storage.md",
+    "docs/civil3/blockx/BlockChain.md",
+    "docs/civil3/blockx/Blockx-Index.md",
+    "docs/Game/Unity/initial.md",
     "docs/Diary/2023-03-19.md",
+    "docs/Diary/2023-04-20.md",
+    "docs/Blog/Linux/工具小集合(tmux).md",
+    "docs/graduation_design/01.md",
     "docs/graduation_design",
     "docs/civil3/blockchain_poc.md",
     "docs/Diary/2022-09-22.md",
