@@ -1,3 +1,5 @@
 {
-  "folder": "Diary/"
+  "folder": "Diary/",
+  "template": "Templates/standard",
+  "format": ""
 }

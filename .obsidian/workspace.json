@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/civil3/None.md"
+                "file": "script/Untitled.canvas"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/civil3/None.md",
+                "file": "script/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/civil3/None.md",
+                "file": "script/Untitled.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,24 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d7496f2c259023a",
+  "active": "9c8b2feee61572bc",
   "lastOpenFiles": [
-    "docs/civil3/None.md",
-    "docs/civil3/wallet-be/Notes.md",
-    "docs/civil3/wallet-be/Civil3-Wallet-POC.md",
-    "docs/civil3/blockx/Decentralized-Message-Storage.md",
-    "docs/civil3/blockx/BlockChain.md",
-    "docs/civil3/blockx/Blockx-Index.md",
-    "docs/Game/Unity/initial.md",
-    "docs/Diary/2023-03-19.md",
-    "docs/Diary/2023-04-20.md",
-    "docs/Blog/Linux/工具小集合(tmux).md",
-    "docs/graduation_design/01.md",
-    "docs/graduation_design",
-    "docs/civil3/blockchain_poc.md",
-    "docs/Diary/2022-09-22.md",
-    "README.md",
-    "docs/Tools/Git/Config.md",
+    "docs/civil3/Untitled.canvas",
+    "script/Untitled.canvas",
     "docs/青训营/Notes/7_Architecture.md",
     "docs/青训营/Notes/6_规则引擎.md",
     "docs/青训营/Notes/5_Database-Related.md",
