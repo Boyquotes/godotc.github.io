@@ -9,7 +9,7 @@
 		{"type":"text","text":"## NFT Contract\n- ERC721  NFT 合约\n- 根据不同的 NFT \n","id":"f291456a7433810c","x":-380,"y":-120,"width":580,"height":240},
 		{"type":"text","text":"Normal NFT","id":"42a35815a1c0e27f","x":-50,"y":44,"width":205,"height":60},
 		{"type":"text","text":"Prime Priority","id":"5c0adbacc55729d6","x":-310,"y":41,"width":220,"height":60},
-		{"type":"text","text":"## TBD\n\n1. 跨链智能合约\n2. DAO的细则\n3. ERC1155","id":"eeddb27cd76b88c3","x":-931,"y":22,"width":362,"height":196}
+		{"type":"text","text":"## TBD\n\n1. 跨链智能合约\n2. DAO的细则\n3. ERC1155","id":"eeddb27cd76b88c3","x":-931,"y":-27,"width":362,"height":196}
 	],
 	"edges":[
 		{"id":"922eac6dd5b08c05","fromNode":"517b7f1eb401433c","fromSide":"right","toNode":"969af184a450824d","toSide":"left","label":"与ETH等之间兑换"},
