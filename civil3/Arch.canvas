@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Token Contract\n代币合约\n- Upgradeable 可升级的\n- Votes  投票基础\n- Approve  `DEX` 或 中心化交易所, `Airdrop`","id":"517b7f1eb401433c","x":-300,"y":-556,"width":420,"height":201},
+		{"type":"text","text":"## Multi-signature Wallet\n多签钱包\n- 团队的共同金库","id":"1118730ddda523a8","x":-960,"y":-527,"width":360,"height":158},
+		{"type":"text","text":"## Airdrop\n空投","id":"586ed74cb7d837ec","x":-860,"y":-260,"width":220,"height":102},
+		{"type":"text","text":"## Governor DAO\n去中心化社区治理","id":"8a6ff5802a1fab36","x":480,"y":-282,"width":339,"height":120},
+		{"type":"text","text":"## DEX (`Uniswap`)\n去中心化交易所\n- 预言机\n- 聚合器","id":"969af184a450824d","x":480,"y":-569,"width":385,"height":214},
+		{"type":"text","text":"## Opensea 市场","id":"6d2d88d3291a0cec","x":480,"y":13,"width":263,"height":65},
+		{"type":"text","text":"## NFT Contract\n- ERC721  NFT 合约\n- 根据不同的 NFT \n","id":"f291456a7433810c","x":-380,"y":-120,"width":580,"height":240},
+		{"type":"text","text":"Normal NFT","id":"42a35815a1c0e27f","x":-50,"y":44,"width":205,"height":60},
+		{"type":"text","text":"Prime Priority","id":"5c0adbacc55729d6","x":-310,"y":41,"width":220,"height":60},
+		{"type":"text","text":"## TBD\n\n1. 跨链智能合约\n2. DAO的细则\n3. ERC1155","id":"eeddb27cd76b88c3","x":-931,"y":-27,"width":362,"height":196}
+	],
+	"edges":[
+		{"id":"922eac6dd5b08c05","fromNode":"517b7f1eb401433c","fromSide":"right","toNode":"969af184a450824d","toSide":"left","label":"与ETH等之间兑换"},
+		{"id":"8d0c4b4bea188044","fromNode":"517b7f1eb401433c","fromSide":"right","toNode":"8a6ff5802a1fab36","toSide":"left","label":"持有Token比例作为\"股份\""},
+		{"id":"3a046b6a44c45442","fromNode":"f291456a7433810c","fromSide":"right","toNode":"8a6ff5802a1fab36","toSide":"left","label":"Priority"},
+		{"id":"0a9484090b534487","fromNode":"1118730ddda523a8","fromSide":"right","toNode":"517b7f1eb401433c","toSide":"left","label":"或许作为管理账户"},
+		{"id":"27d005af43321046","fromNode":"517b7f1eb401433c","fromSide":"left","toNode":"586ed74cb7d837ec","toSide":"right"},
+		{"id":"f622e51dfe2d1436","fromNode":"f291456a7433810c","fromSide":"left","toNode":"586ed74cb7d837ec","toSide":"right"},
+		{"id":"c358c288465d69ba","fromNode":"f291456a7433810c","fromSide":"right","toNode":"6d2d88d3291a0cec","toSide":"left"}
+	]
+}
